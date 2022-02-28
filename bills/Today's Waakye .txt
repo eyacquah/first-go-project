@@ -1,0 +1,10 @@
+Bill Breakdown 
+Sausage:                  ...$2 
+Fish:                     ...$4.5 
+Egg:                      ...$1.5 
+Waakye:                   ...$6.5 
+Spag:                     ...$2 
+Salad:                    ...$2 
+Plantain:                 ...$3 
+tip:                      ... $3.00 
+total:                    ... $24.50 

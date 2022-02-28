@@ -1,0 +1,7 @@
+Bill Breakdown 
+Spag:                     ...$2 
+Plantain:                 ...$3 
+Chicken:                  ...$6 
+Jollof:                   ...$8 
+tip:                      ... $2.00 
+total:                    ... $21.00 
